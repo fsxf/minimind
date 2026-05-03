@@ -1,3 +1,5 @@
+# CLI 推理：python eval_llm.py --load_from ./minimind-3
+# WebUI 聊天：cd scripts && streamlit run web_demo.py，浏览器访问 http://localhost:8501
 import time
 import argparse
 import random
